@@ -1,0 +1,10 @@
+// andrew mead links:
+https://gist.github.com/andrewjmead/3e3e310aea27f10f7f1ce506b39dfcbe
+
+
+// the moment used to format the time displayed to user
+https://momentjs.com/
+
+
+// assets
+https://files.mead.io/35188b9dfb61#
